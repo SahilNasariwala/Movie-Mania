@@ -1,0 +1,11 @@
+.trending {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* color: black;
+   */
+}
+.pageTitle{
+  color:black;
+  font-weight: bold;
+}
